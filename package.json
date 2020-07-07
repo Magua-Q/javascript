@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "javascript 深入学习",
+  "main": "1.constructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magua-Q/javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magua-Q/javascript/issues"
+  },
+  "homepage": "https://github.com/Magua-Q/javascript#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
